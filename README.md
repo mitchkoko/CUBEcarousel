@@ -1,16 +1,5 @@
-# carouselslider
+# CUBE Carousel Slider • Flutter Package of the Day #05
 
-A new Flutter project.
+Wow i love this package, super simple to use and makes the scrolling between pages look so cool :D
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out my youtube tutorial if you need ~ https://youtu.be/-SXNv0s_zl0![2CB258F8-F1A7-4AFF-8C6E-9DEE710A3624](https://user-images.githubusercontent.com/29016489/141221498-428c9bbf-a8a9-4c95-a493-38918aca75fc.JPG)
